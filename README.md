@@ -4,10 +4,6 @@ I'm a developer from India who enjoys building web applications, learning new te
 
 I'm currently working toward becoming a **Full Stack Developer with a strong backend foundation and practical knowledge of AI and Data Analysis**. I enjoy turning ideas into working projects and continuously improving my development skills.
 
-Email: [dnyaneshwarpatil098765@gmail.com](mailto:dnyaneshwarpatil098765@gmail.com)
-
-LinkedIn: https://www.linkedin.com/in/dnyaneshwar-patil-081770336/
-
 ---
 
 ## About Me
